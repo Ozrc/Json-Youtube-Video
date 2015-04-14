@@ -4,7 +4,7 @@
 <head>
 
 	<meta charset="utf-8"/>
-    <title>Youtube Video - Oğuz Zarcı</title>
+    <title>Youtube Video</title>
     
 
 
